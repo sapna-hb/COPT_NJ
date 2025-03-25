@@ -165,13 +165,11 @@
   font-family: var(--bodyFont);
   font-weight: 500;
 }
-
 .navbar-area .navbar .navbar-nav .nav-item:hover .dropdown-menu {
   opacity: 1;
   visibility: visible;
   transform: translate3d(0, 0, 0);
 }
-
 .navbar-area .navbar .navbar-nav .nav-item .dropdown-menu {
   left: 0;
   top: 49px;
